@@ -1,7 +1,7 @@
 # Key Components:
 ## Class Definition:
 
-**LibraryManagementSystem**: This class encapsulates all the functionalities of the library management system. It includes methods for adding, updating, and deleting member records, as well as displaying data.
+- **LibraryManagementSystem**: This class encapsulates all the functionalities of the library management system. It includes methods for adding, updating, and deleting member records, as well as displaying data.
 ## GUI Layout:
 
 The main window is defined with the title "Library Management System" and a specific size.
